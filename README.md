@@ -33,3 +33,28 @@ It provides a user-friendly interface where users can:
 ---
 
 ## 🧠 Performance Formula
+- Performance Score = Runs + (Wickets × 20) + Strike Rate
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Tkinter (GUI)**
+- **Matplotlib (Charts)**
+- **NumPy**
+- **CSV Module**
+- **Pillow (Image Handling)**
+
+---
+
+## 📊 Visualizations
+
+- Runs Bar Chart  
+- Performance Score Chart  
+- Radar Chart  
+- Player Comparison Chart  
+- Custom Field Chart  
+
+
+
